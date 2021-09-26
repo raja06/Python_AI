@@ -400,7 +400,7 @@ if __name__=='__main__':
 
            elif "Raja" in statement:
               wishMe()
-              speak("Rose 1 point o in your service")
+              speak("Raja 1 point o in your service")
               speak(assname)
               
            # To log-off your pc
