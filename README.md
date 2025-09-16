@@ -33,8 +33,7 @@
    cd raja-voice-assistant
 Create a virtual environment (optional but recommended)
 
-bash
-Copy code
+'''bash
 python -m venv venv
 venv\Scripts\activate  # On Windows
 Install the required dependencies
